@@ -1,0 +1,74 @@
+body {
+    font-family: 'Fira Sans', sans-serif !important;
+}
+
+p {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+h1 {
+    font-size: 8vw !important;
+    padding: 50px !important;
+}
+
+h4 {
+    text-shadow: #000 0px 0px 1px;
+}
+
+table.table1 {
+    border: 3px solid rgb(255, 255, 255);
+    border-style: double;
+    background-color: rgb(47, 47, 47);
+    color: white;
+    font-size: 18px;
+    width: 7cm;
+    height: 5cm;
+    margin-top: 25px;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-bottom: 40px;
+}
+
+
+table.table1 td.td1 {
+    font-family: 'Slabo 27px', serif;
+    font-size: 20px !important;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    line-height: 1.1;
+}
+
+table.table1 td.td2 {
+    font-size: 17px !important;
+    padding-left: 60px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    line-height: 1.1;
+}
+
+table.table2 {
+    width: 7cm;
+    height: 5cm;
+    margin-top: 40px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+table.table2 tr td {
+    font-size: 15px;
+}
+
+table.table2 tr td,
+th {
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 8px;
+}
+
+table.table2 tr th {
+    text-align: center !important;
+}
